@@ -1,0 +1,30 @@
+* Use multiple classes to make grids flexible in other devices
+*  Use CLEARFIX when grids turn abnormal and to hide at certain breakpoints (clearfix visible-sm-block) 
+* Use offset to modify grids at certain breakpoints BOOSTRAP 4 (offset-md-4)
+* Nest columns to create any layout
+* Push or pull columns (col-md-4-push-1) BOOSTRAP 4 (float-right)
+* Heading tags (small,lead)
+* Text tags (mark,strike,em)
+* Use blockquotes and footer to quote a tag at span
+* Use PRE tags to wrap a code 
+* Contextual Buttons btn btn-default ( default,primary,succes,info,warning,danger)
+* Table <table> (table,thead,tr,th) table-responsive , table-bordered,
+* Image classes (rounded-circle , img-responsive)
+* Always use label tag when creating form
+* class=“form-group” to add padding by form group and input fields
+* class=“form-control” to set input field as full width in the container
+* class=“checkbox” put inside label tag the input tag and don’t have for attribute
+* radio-inline & checkbox-inline but remove parent div 
+* input-group and input-group-addon and input-group-btn
+* readonly attribute to make placeholder uneditable
+* class is dropdown button is dropdown-toggle li is dropdown-menu
+* use class=“btn-group” to group buttons
+* in BOOTSTRAP 4 , use nav tag and then add .navbar class. to add linke add ul tag and add .navbar-nav and then add list add .navbar-item and then in <a> add .nav-link
+* You can use contextual colors in nav by adding bg-primary in the parent class
+* use navbar-light or navbar-dark to change link color. navbar-expand to make horizontal
+* use form-inline to align forn in navbar
+* To make a pagination make a nav tag and ad ol tag with class of “pagination” followed by <li> with class of “page-item” and <a> with a class of “page-link”
+* Use class=“jumbotron” to add nice page heading
+* Use badges for visualization, make a span and then a class of “badge badge-primary” (contextual colours), to add rounded badge, use badge-pill
+* Use “img-thumbnail” to use bootstrap thumbnail
+

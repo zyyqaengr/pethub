@@ -1,0 +1,84 @@
+header {
+	background: url(../img/header.jpg) no-repeat;
+	background-position: center;
+	height: 315px;
+	width: 100%;
+	margin-bottom: 50px;
+}
+
+a {
+	color: grey;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #58abef ;
+
+}
+
+
+.myform {
+	margin-top: 30px;
+	border: .5px;
+	border-radius: 5px;
+	border-style: ridge;
+}
+
+.vets {
+	margin-top: 60px;	
+}
+
+
+
+#vetname {
+	margin-top: 25px;
+}
+
+#forgotpass {
+	text-decoration: none;
+	font-size: 13px;
+}
+
+.signup {
+	border: 1px;
+	border-radius: 5px;
+	border-style: ridge;
+}
+
+
+#signuptxt {
+	margin-top: 10px;
+}
+
+
+.searcharea {
+	margin-top: 5px;
+	margin-right: 5px;
+}
+
+
+.mynav {
+	background-color: #61d1ed;
+	margin-bottom: 5px;
+	height: 55px;
+
+}
+
+.mynavtx {
+	color: white;
+	margin-right: 10px;
+}
+
+.mynavtx:hover {
+	background-color: #55bdd6;
+	border: .5px;
+	border-radius: 4px;
+	color: white;
+}
+
+#readmore {
+	text-decoration: none;
+}
+
+
+
